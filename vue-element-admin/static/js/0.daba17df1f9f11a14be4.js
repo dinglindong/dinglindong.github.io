@@ -1,0 +1,2 @@
+webpackJsonp([0],{viA7:function(t,e,a){"use strict";e.b=function(t){return Object(r.a)({url:"/article/list",method:"get",params:t})},e.c=function(t){return Object(r.a)({url:"/article/pv",method:"get",params:{pv:t}})},e.a=function(t){return Object(r.a)({url:"/article/create",method:"post",data:t})},e.d=function(t){return Object(r.a)({url:"/article/update",method:"post",data:t})};var r=a("vLgD")}});
+//# sourceMappingURL=0.daba17df1f9f11a14be4.js.map
