@@ -1,0 +1,2 @@
+webpackJsonp([24],{ARoL:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("section",{staticClass:"app-container"},[e("el-button",{attrs:{type:"primary"}},[this._v("我是Element按钮样式")])],1)},staticRenderFns:[]};var r=n("C7Lr")({name:"dashboard"},a,!1,function(t){n("AjEu")},"data-v-77872820",null);e.default=r.exports},AjEu:function(t,e){}});
+//# sourceMappingURL=24.c15631bd2577b384e995.js.map
