@@ -1,4 +1,4 @@
-# UI Show
+# View to show
 
 ### vue-element-admin
 
@@ -22,3 +22,12 @@
 &emsp;&emsp;使用vuepress快速集成SPA静态站点，记录前端基础知识，以及深入前端
 
 预览地址为 https://dinglindong.github.io/vuepress
+
+
+### react-init
+
+&emsp;&emsp;使用React + react-redux 构建前端H5添加购物功能
+
+技术站为 react + react-redux + less + animate + axios + redux-middleware + styled-component + css.module + react-router-dom
+
+预览地址为 https://dinglindong.github.io/react-init
