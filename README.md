@@ -31,3 +31,11 @@
 技术站为 react + react-redux + less + animate + axios + redux-middleware + styled-component + css.module + react-router-dom
 
 预览地址为 https://dinglindong.github.io/react-init
+
+
+### react-umi
+&emsp;&emsp;使用umi +dva 构建PC端王者荣耀资料库
+
+技术站为 umi + dva + antd + fetch + less + mock + proxy
+
+预览地址为 https://dinglindong.github.io/react-umi
