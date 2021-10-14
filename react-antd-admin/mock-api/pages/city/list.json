@@ -1,0 +1,209 @@
+{
+	"code": 0,
+	"message": "您当前请求的code码错误",
+	"result": {
+		"list": [
+			{
+				"id": 1,
+				"name": "中卫市",
+				"mode": 2,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "邵军",
+						"user_id": 10001
+					},
+					{
+						"user_name": "尹磊",
+						"user_id": 10002
+					}
+				],
+				"open_time": "1985-07-15 09:58:10",
+				"sys_user_name": "丁伟",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 2,
+				"name": "长治市",
+				"mode": 2,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "段芳",
+						"user_id": 10003
+					},
+					{
+						"user_name": "谭平",
+						"user_id": 10004
+					}
+				],
+				"open_time": "1984-09-29 01:51:33",
+				"sys_user_name": "魏超",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 3,
+				"name": "襄阳市",
+				"mode": 2,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "贾勇",
+						"user_id": 10005
+					},
+					{
+						"user_name": "雷秀兰",
+						"user_id": 10006
+					}
+				],
+				"open_time": "1975-08-07 20:32:26",
+				"sys_user_name": "任静",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 4,
+				"name": "邢台市",
+				"mode": 1,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "贺涛",
+						"user_id": 10007
+					}
+				],
+				"open_time": "1988-09-13 17:50:57",
+				"sys_user_name": "乔超",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 5,
+				"name": "彰化县",
+				"mode": 2,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "刘勇",
+						"user_id": 10008
+					},
+					{
+						"user_name": "汪超",
+						"user_id": 10009
+					}
+				],
+				"open_time": "1970-01-19 05:21:10",
+				"sys_user_name": "锺娜",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 6,
+				"name": "保定市",
+				"mode": 1,
+				"op_mode": 2,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "袁军",
+						"user_id": 10010
+					},
+					{
+						"user_name": "吕勇",
+						"user_id": 10011
+					}
+				],
+				"open_time": "1973-11-02 01:51:20",
+				"sys_user_name": "尹强",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 7,
+				"name": "石嘴山市",
+				"mode": 1,
+				"op_mode": 2,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "徐强",
+						"user_id": 10012
+					}
+				],
+				"open_time": "1974-03-08 19:09:15",
+				"sys_user_name": "杨平",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 8,
+				"name": "重庆市",
+				"mode": 2,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "朱娜",
+						"user_id": 10013
+					},
+					{
+						"user_name": "谭静",
+						"user_id": 10014
+					}
+				],
+				"open_time": "2019-06-19 04:09:00",
+				"sys_user_name": "萧敏",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 9,
+				"name": "银川市",
+				"mode": 2,
+				"op_mode": 1,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "卢明",
+						"user_id": 10015
+					}
+				],
+				"open_time": "1976-06-30 19:48:52",
+				"sys_user_name": "贾静",
+				"update_time": 1520476737000
+			},
+			{
+				"id": 10,
+				"name": "大庆市",
+				"mode": 1,
+				"op_mode": 2,
+				"franchisee_id": 77,
+				"franchisee_name": "松果自营",
+				"city_admins": [
+					{
+						"user_name": "邵静",
+						"user_id": 10016
+					},
+					{
+						"user_name": "叶军",
+						"user_id": 10017
+					}
+				],
+				"open_time": "1981-12-28 09:57:04",
+				"sys_user_name": "梁霞",
+				"update_time": 1520476737000
+			}
+		],
+		"page": 1,
+		"page_size": 10,
+		"total": 100
+	}
+}

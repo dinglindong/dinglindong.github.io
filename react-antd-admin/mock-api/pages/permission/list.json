@@ -1,0 +1,151 @@
+{
+  "code": 0,
+  "result": {
+    "page": 1,
+    "page_size": 10,
+    "total_count": 25,
+    "page_count": 3,
+    "list": [
+      {
+        "id": 1,
+        "role_name": "财务专员",
+        "status": 0,
+        "authorize_user_name": "田杰",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      },
+      {
+        "id": 2,
+        "role_name": "财务专员",
+        "status": 0,
+        "authorize_user_name": "冯涛",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      },
+      {
+        "id": 3,
+        "role_name": "人力专员",
+        "status": 0,
+        "authorize_user_name": "常艳",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      },
+      {
+        "id": 4,
+        "role_name": "客服专员",
+        "status": 0,
+        "authorize_user_name": "蒋秀英",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      },
+      {
+        "id": 5,
+        "role_name": "管理人员",
+        "status": 1,
+        "authorize_user_name": "史秀兰",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      },
+      {
+        "id": 6,
+        "role_name": "客服专员",
+        "status": 0,
+        "authorize_user_name": "杨明",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      },
+      {
+        "id": 7,
+        "role_name": "客服专员",
+        "status": 0,
+        "authorize_user_name": "何杰",
+        "authorize_time": 1521270166000,
+        "create_time": 1499305790000,
+        "menus": [
+          "/home",
+          "/ui/buttons",
+          "/ui/modals",
+          "/ui/loadings",
+          "/ui/notification",
+          "/ui/messages",
+          "/ui/tabs",
+          "/ui/gallery",
+          "/ui/carousel",
+          "/ui"
+        ]
+      }
+    ]
+  }
+}

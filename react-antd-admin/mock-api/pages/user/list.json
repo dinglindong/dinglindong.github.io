@@ -1,0 +1,118 @@
+{
+  "code": 0,
+  "message": "您当前请求的code码错误",
+  "result": {
+    "list": [
+      {
+        "id": 1,
+        "username": "常平",
+        "sex": 1,
+        "state": 4,
+        "interest": 7,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 2,
+        "username": "何娟",
+        "sex": 2,
+        "state": 4,
+        "interest": 4,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 3,
+        "username": "侯芳",
+        "sex": 1,
+        "state": 3,
+        "interest": 4,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 4,
+        "username": "邹敏",
+        "sex": 1,
+        "state": 1,
+        "interest": 7,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 5,
+        "username": "易洋",
+        "sex": 1,
+        "state": 2,
+        "interest": 3,
+        "isMarried": 0,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 6,
+        "username": "贺艳",
+        "sex": 2,
+        "state": 3,
+        "interest": 5,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 7,
+        "username": "史涛",
+        "sex": 2,
+        "state": 5,
+        "interest": 4,
+        "isMarried": 0,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 8,
+        "username": "董娜",
+        "sex": 1,
+        "state": 2,
+        "interest": 4,
+        "isMarried": 0,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 9,
+        "username": "苏敏",
+        "sex": 1,
+        "state": 2,
+        "interest": 1,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      },
+      {
+        "id": 10,
+        "username": "唐艳",
+        "sex": 2,
+        "state": 5,
+        "interest": 5,
+        "isMarried": 1,
+        "birthday": "2000-01-01",
+        "address": "北京市海淀区",
+        "time": "09:00:00"
+      }
+    ]
+  }
+}

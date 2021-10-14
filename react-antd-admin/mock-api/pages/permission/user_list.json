@@ -1,0 +1,107 @@
+{
+	"code": 0,
+	"result": {
+		"list": [
+			{
+				"status": 1,
+				"user_id": 1,
+				"user_name": "白洋"
+			},
+			{
+				"status": 1,
+				"user_id": 2,
+				"user_name": "石平"
+			},
+			{
+				"status": 1,
+				"user_id": 3,
+				"user_name": "江秀兰"
+			},
+			{
+				"status": 0,
+				"user_id": 4,
+				"user_name": "曹芳"
+			},
+			{
+				"status": 0,
+				"user_id": 5,
+				"user_name": "林平"
+			},
+			{
+				"status": 0,
+				"user_id": 6,
+				"user_name": "赵明"
+			},
+			{
+				"status": 0,
+				"user_id": 7,
+				"user_name": "梁涛"
+			},
+			{
+				"status": 0,
+				"user_id": 8,
+				"user_name": "潘芳"
+			},
+			{
+				"status": 1,
+				"user_id": 9,
+				"user_name": "邵平"
+			},
+			{
+				"status": 0,
+				"user_id": 10,
+				"user_name": "郝强"
+			},
+			{
+				"status": 1,
+				"user_id": 11,
+				"user_name": "任芳"
+			},
+			{
+				"status": 1,
+				"user_id": 12,
+				"user_name": "唐刚"
+			},
+			{
+				"status": 1,
+				"user_id": 13,
+				"user_name": "蔡艳"
+			},
+			{
+				"status": 0,
+				"user_id": 14,
+				"user_name": "田超"
+			},
+			{
+				"status": 1,
+				"user_id": 15,
+				"user_name": "程秀兰"
+			},
+			{
+				"status": 1,
+				"user_id": 16,
+				"user_name": "金艳"
+			},
+			{
+				"status": 0,
+				"user_id": 17,
+				"user_name": "郑秀英"
+			},
+			{
+				"status": 0,
+				"user_id": 18,
+				"user_name": "薛芳"
+			},
+			{
+				"status": 0,
+				"user_id": 19,
+				"user_name": "龚明"
+			},
+			{
+				"status": 0,
+				"user_id": 20,
+				"user_name": "方磊"
+			}
+		]
+	}
+}

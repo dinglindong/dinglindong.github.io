@@ -1,0 +1,131 @@
+{
+	"code": 0,
+	"message": "您当前请求的code码错误",
+	"result": {
+		"list": [
+			{
+				"id": 1,
+				"sex": 1,
+				"state": 1,
+				"age": 25,
+				"interest": 7,
+				"userName": "汤芳",
+				"isMarried": 0,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 2,
+				"sex": 2,
+				"state": 2,
+				"age": 23,
+				"interest": 3,
+				"userName": "彭明",
+				"isMarried": 0,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 3,
+				"sex": 1,
+				"state": 5,
+				"age": 26,
+				"interest": 8,
+				"userName": "乔敏",
+				"isMarried": 1,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 4,
+				"sex": 2,
+				"state": 3,
+				"age": 19,
+				"interest": 5,
+				"userName": "赵勇",
+				"isMarried": 1,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 5,
+				"sex": 2,
+				"state": 3,
+				"age": 23,
+				"interest": 7,
+				"userName": "杨芳",
+				"isMarried": 1,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 6,
+				"sex": 1,
+				"state": 2,
+				"age": 26,
+				"interest": 3,
+				"userName": "傅桂英",
+				"isMarried": 0,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 7,
+				"sex": 2,
+				"state": 3,
+				"age": 29,
+				"interest": 3,
+				"userName": "乔芳",
+				"isMarried": 1,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 8,
+				"sex": 2,
+				"state": 2,
+				"age": 29,
+				"interest": 6,
+				"userName": "孙丽",
+				"isMarried": 0,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 9,
+				"sex": 2,
+				"state": 2,
+				"age": 19,
+				"interest": 3,
+				"userName": "邓丽",
+				"isMarried": 0,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			},
+			{
+				"id": 10,
+				"sex": 2,
+				"state": 4,
+				"age": 29,
+				"interest": 1,
+				"userName": "金芳",
+				"isMarried": 1,
+				"birthday": "2000-01-01",
+				"address": "北京市昌平区",
+				"time": "09:00:00"
+			}
+		],
+		"page": 1,
+		"page_size": 10,
+		"total": 100
+	}
+}
